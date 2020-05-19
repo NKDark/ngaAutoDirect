@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         自动跳转
+// @name         NGA自动跳转
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       NKDark
 // @match        https://bbs.nga.cn/*
 // @grant        none
 // ==/UserScript==
